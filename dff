@@ -1,0 +1,40 @@
+[33mcommit 421a419feeec2ceacee1ee02c4bd24b552f9a772[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-branch[m[33m)[m
+Author: developer1 <vivekkovi12@gmail.com>
+Date:   Mon Aug 26 12:19:16 2024 -0500
+
+    changes made to file rewards.h
+
+[33mcommit aa9954545f8cb0fc8293a1545f85e4d5528cec55[m
+Merge: ce792b5 f34ab8c
+Author: developer1 <vivekkovi12@gmail.com>
+Date:   Wed Jul 17 01:56:58 2024 -0500
+
+    Merge https://github.com/v-ive-k/csc455project1 into feature-branch
+     the commit is necessary in file Customer.h
+
+[33mcommit ce792b5708ddda5ee764695b26c261465af3840d[m
+Author: developer1 <vivekkovi12@gmail.com>
+Date:   Wed Jul 17 01:55:06 2024 -0500
+
+    new changes have been made to a file Customer.h
+
+[33mcommit f34ab8cc23e3f4a427d059a4ccc3c86914f57900[m
+Merge: 378fc75 f9b82be
+Author: v-ive-k <vivekkovi93@gmail.com>
+Date:   Thu Jun 27 17:22:44 2024 -0500
+
+    Merge pull request #1 from v-ive-k/child
+    
+    cahnges done to main.cpp
+
+[33mcommit f9b82be5b1bd6fe6c68ff722aa8b6620e8ef72d7[m[33m ([m[1;31morigin/child[m[33m, [m[1;32mchild[m[33m)[m
+Author: developer1 <vivekkovi12@gmail.com>
+Date:   Thu Jun 27 17:17:57 2024 -0500
+
+    cahnges done to main.cpp
+
+[33mcommit 378fc75af120db48a3b17fc85b05f62a6de8e223[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: developer1 <vivekkovi12@gmail.com>
+Date:   Thu Jun 27 00:51:08 2024 -0500
+
+    intial commit of ssc project
