@@ -293,9 +293,7 @@ void RewardManagement()
         else
         {
             RedeemPoints();
-            RCheck = false;
+           RCheck = false;
         }
-    }
-}
 
-#endif
+	code midified

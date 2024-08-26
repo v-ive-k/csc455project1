@@ -479,5 +479,5 @@ void RemoveCustomer()
     std::remove("customers.txt");
     std::rename("temp.txt", "customers.txt");
 }
-
+// this is a new comment added on 07/17/2024 at 01:53 AM.
 #endif
